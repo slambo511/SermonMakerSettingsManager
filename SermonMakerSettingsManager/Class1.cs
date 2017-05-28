@@ -2,7 +2,8 @@
 
 namespace SermonMakerSettingsManager
 {
-    public class Class1
+    public class SaveSettings
     {
+
     }
 }
